@@ -1,0 +1,5 @@
+/Users/ivanabasic/Documents/C++/OF 7/apps/FASHION WORK /1/src/testApp.cpp:138: error: 'grayDiff' was not declared in this scope
+/Users/ivanabasic/Documents/C++/OF 7/apps/FASHION WORK /1/src/testApp.cpp:139: error: expected ',' or ';' before 'int'
+/Users/ivanabasic/Documents/C++/OF 7/apps/FASHION WORK /1/src/testApp.cpp:142: error: expected unqualified-id before 'for'
+/Users/ivanabasic/Documents/C++/OF 7/apps/FASHION WORK /1/src/testApp.cpp:142: error: expected constructor, destructor, or type conversion before '<' token
+/Users/ivanabasic/Documents/C++/OF 7/apps/FASHION WORK /1/src/testApp.cpp:142: error: expected constructor, destructor, or type conversion before '++' token
